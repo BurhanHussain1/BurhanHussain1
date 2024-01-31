@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **technology.**
+- 💬 Ask me about **Photography.**
 
 - 📫 How to reach me **hussainburhan207@gmail.com**
 
