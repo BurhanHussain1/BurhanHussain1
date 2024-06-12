@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://www.alamy.com/html-computer-programming-coding-language-website-developing-technology-background-mixed-media-banner-image467340212.html)]
 <h1 align="center">Hi 👋, I'm Burhan</h1>
 <h3 align="center">A tech lover.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
