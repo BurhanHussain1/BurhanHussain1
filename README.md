@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Burhan</h1>
 <h3 align="center">A tech lover.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=4fdeda92e1e459ac&sca_upv=1&sxsrf=ADLYWIJv6C8n5-p9cja10B5V0u-toGLUzg:1718230616960&q=animated+coding+gif&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2joZDvir2QxhZkTA8rK1etu4ohtqlTKXOQ56HmFa2r_eplftr8tzaj8o-m8UII7chpXtMWqj0PneEpLh7XnLtJAWcbcP7hkjPss4t0jtMmmE96vE2SM&sa=X&sqi=2&ved=2ahUKEwj4tMPsi9eGAxUEUqQEHTyiA_MQtKgLegQIExAB&biw=1366&bih=599&dpr=1#vhid=dbrfb5dvHO4gVM&vssid=mosaic">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burhanhussain1&label=Profile%20views&color=0e75b6&style=flat" alt="burhanhussain1" /> </p>
 
 - 🌱 I’m currently learning **Data Science.**
